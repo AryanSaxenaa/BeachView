@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raihan4520/Computer-Graphics.git
+   git clone https://github.com/AryanSaxenaa/BeachView.git
 2. Ensure that OpenGL and GLUT are installed and configured properly on your machine.
 3. Open the project in your preferred IDE (e.g., Visual Studio, Code::Blocks).
 4. Build the project using g++ main.cpp src/Shapes.cpp src/KeyEvents.cpp -o BeachView -I./include -lfreeglut -lopengl32 -lglu32 -lwinmmS
