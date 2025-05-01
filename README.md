@@ -1,12 +1,5 @@
 # Computer Graphics Final Project
 
-## Table of Contents
-- [Overview](#overview)
-- [Project Description](#project-description)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Contact](#contact)
-
 ## Overview
 
 The final project demonstrates the practical application of computer graphics principles including:
@@ -37,7 +30,7 @@ The project involves creating a 3D environment where users can:
 
 - **Programming Language:** C++
 - **Graphics Library:** OpenGL
-- **IDE:** Code::Blocks
+- **IDE:** VS Code
 - **Tools:** GLUT (OpenGL Utility Toolkit)
 
 ## How to Run
@@ -49,4 +42,5 @@ To run the project locally, follow these steps:
    git clone https://github.com/Raihan4520/Computer-Graphics.git
 2. Ensure that OpenGL and GLUT are installed and configured properly on your machine.
 3. Open the project in your preferred IDE (e.g., Visual Studio, Code::Blocks).
-4. Build and run the project.  g++ main.cpp src/Shapes.cpp src/KeyEvents.cpp -o BeachView -I./include -lfreeglut -lopengl32 -lglu32 -lwinmmS
+4. Build the project using g++ main.cpp src/Shapes.cpp src/KeyEvents.cpp -o BeachView -I./include -lfreeglut -lopengl32 -lglu32 -lwinmmS
+5. ./BeachView.exe
