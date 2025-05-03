@@ -4,16 +4,16 @@
 
 The final project demonstrates the practical application of computer graphics principles including:
 
-- 2D and 3D transformations
+- 2D  transformations
 - Projection and viewing
 - Basic object rendering and manipulation
 - Interactive control using keyboard and mouse inputs
 
-The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 2D and 3D objects.
+The project was developed using **OpenGL** and C++, and aims to provide an interactive experience for manipulating 2D objects.
 
 ## Project Description
 
-The project involves creating a 3D environment where users can:
+The project involves creating a environment where users can:
 
 - Move objects with keyboard inputs
 - Use keyboard inputs to adjust the view (day/night)
@@ -21,8 +21,8 @@ The project involves creating a 3D environment where users can:
 - A menu which shows all key events
 
 ### Features:
-- **3D Object Rendering:** Basic 3D shapes (cubes, spheres, etc.) rendered using OpenGL.
-- **Transformations:** Real-time 3D transformations (scaling, rotation, translation) applied to the objects.
+- **2D Object Rendering:** Basic 2D shapes rendered using OpenGL.
+- **Transformations:** Real-time transformations (scaling, rotation, translation) applied to the objects.
 - **Interactive Controls:** Users can control object transformations via keyboard input.
 - **Projection:** Implements perpective projection to simulate depth and realism in the scene.
 
