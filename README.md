@@ -44,3 +44,4 @@ To run the project locally, follow these steps:
 3. Open the project in your preferred IDE (e.g., Visual Studio, Code::Blocks).
 4. Build the project using g++ main.cpp src/Shapes.cpp src/KeyEvents.cpp -o BeachView -I./include -lfreeglut -lopengl32 -lglu32 -lwinmmS
 5. ./BeachView.exe
+[CG Project Report.pdf](https://github.com/user-attachments/files/21388319/CG.Project.Report.pdf)
